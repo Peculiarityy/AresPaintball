@@ -1,0 +1,7 @@
+name: AresPaintball
+main: com.AresPainball.core.Main
+description: Ares Plugin
+author: Shadyahyaaaaa
+version: 1.0
+commands:
+  pb:
